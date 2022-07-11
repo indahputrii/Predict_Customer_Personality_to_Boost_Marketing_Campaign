@@ -1,0 +1,2 @@
+# Predict_Customer_Personality_to_Boost_Marketing_Campaign
+A company can grow rapidly when it knows the behavior of its customer personality, so that it can provide better services and benefits to customers who have the potential to become loyal customers. By processing historical marketing campaign data to improve performance and targeting the right customers so that they can transact on the company's platform, from this data insight our focus is to create a cluster prediction model to make it easier for companies to make decisions.
